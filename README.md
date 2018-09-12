@@ -1,4 +1,4 @@
-# Near-Bayesian-SVM
+# Near-Bayesian Support Vector Machines
 MATLAB implementation of Near-Bayesian SVMs
 
 LICENSE:
